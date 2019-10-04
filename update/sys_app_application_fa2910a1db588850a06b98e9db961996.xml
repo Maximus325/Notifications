@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>itil</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-04 14:55:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fa2910a1db588850a06b98e9db961996</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Notifications</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="User Notifications" source="x_165436_user_noti">5ce8d4a9db588850a06b98e9db9619ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="User Notifications">5ce8d4a9db588850a06b98e9db9619ce</sys_scope>
+        <sys_update_name>sys_app_application_fa2910a1db588850a06b98e9db961996</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-04 14:55:00</sys_updated_on>
+        <title>User Notifications</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
